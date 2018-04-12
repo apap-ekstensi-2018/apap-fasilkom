@@ -151,7 +151,7 @@ Mengembalikan object seorang mahasiswa dengan menggunakan npm mahasiswa
 
 **Method** : `GET`
 
-### Success Response
+### Response
 
 **Contoh Request**: [/api/mahasiswa/view/npm/1506721756](https://apap-fasilkom.herokuapp.com/api/mahasiswa/view/npm/1506721756)
 
@@ -266,7 +266,7 @@ Mengembalikan object sebuah mata kuliah dengan menggunakan kode mata kuliah
 
 **Method** : `GET`
 
-### Success Response
+### Response
 
 **Contoh Request**: [/api/matkul/view/kode/CSIE604274](https://apap-fasilkom.herokuapp.com/api/matkul/view/kode/CSIE604274)
 
@@ -365,7 +365,7 @@ Mengembalikan object seorang dosen dengan menggunakan nip dosen
 
 **Method** : `GET`
 
-### Success Response
+### Response
 
 **Contoh Request**: [/api/dosen/view/nip/1290578781](https://apap-fasilkom.herokuapp.com/api/dosen/view/nip/1290578781)
 
@@ -443,7 +443,7 @@ Mengembalikan object seorang staf dengan menggunakan nip staf
 
 **Method** : `GET`
 
-### Success Response
+### Response
 
 **Contoh Request**: [/api/staf/view/nip/1506737823](https://apap-fasilkom.herokuapp.com/api/staf/view/nip/1506737823)
 
